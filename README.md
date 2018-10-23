@@ -10,6 +10,6 @@ A responsive web app using React that let you search characters in the Star Wars
 - Fetch API (https://swapi.co/)
 - Images from RoboHash API (https://robohash.org/)
 
-### Online Demo
+## Online Demo
 
 https://edsonha.github.io/Star-Wars-Friends
