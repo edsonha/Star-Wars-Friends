@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/Star-Wars-Friends/static/media/Corellia.031dc661.png"
   },
   {
-    "revision": "606cf2ae4fa4ac418702",
-    "url": "/Star-Wars-Friends/static/css/main.153cb910.chunk.css"
+    "revision": "0736babf02d76b660782",
+    "url": "/Star-Wars-Friends/static/css/main.105dc5fc.chunk.css"
   },
   {
     "revision": "84ecfc55510163b8bbfe1aa9285123bf",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/Star-Wars-Friends/static/media/Cato Neimoidia.51fc631a.png"
   },
   {
-    "revision": "606cf2ae4fa4ac418702",
-    "url": "/Star-Wars-Friends/static/js/main.606cf2ae.chunk.js"
+    "revision": "0736babf02d76b660782",
+    "url": "/Star-Wars-Friends/static/js/main.0736babf.chunk.js"
   },
   {
     "revision": "770334c2cc88b5f3c058e66f8c3807d8",
@@ -160,7 +160,7 @@ self.__precacheManifest = [
     "url": "/Star-Wars-Friends/static/css/1.1067a1b3.chunk.css"
   },
   {
-    "revision": "7e6456941323a042f17284f18bf0c7c3",
+    "revision": "0a5e3124b88369e25ff04435532d68b7",
     "url": "/Star-Wars-Friends/index.html"
   }
 ];

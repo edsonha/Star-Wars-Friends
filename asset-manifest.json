@@ -1,7 +1,7 @@
 {
-  "main.css": "/Star-Wars-Friends/static/css/main.153cb910.chunk.css",
-  "main.js": "/Star-Wars-Friends/static/js/main.606cf2ae.chunk.js",
-  "main.js.map": "/Star-Wars-Friends/static/js/main.606cf2ae.chunk.js.map",
+  "main.css": "/Star-Wars-Friends/static/css/main.105dc5fc.chunk.css",
+  "main.js": "/Star-Wars-Friends/static/js/main.0736babf.chunk.js",
+  "main.js.map": "/Star-Wars-Friends/static/js/main.0736babf.chunk.js.map",
   "static/css/1.1067a1b3.chunk.css": "/Star-Wars-Friends/static/css/1.1067a1b3.chunk.css",
   "static/js/1.49082a82.chunk.js": "/Star-Wars-Friends/static/js/1.49082a82.chunk.js",
   "static/js/1.49082a82.chunk.js.map": "/Star-Wars-Friends/static/js/1.49082a82.chunk.js.map",
@@ -41,9 +41,9 @@
   "static/media/episode4.jpg": "/Star-Wars-Friends/static/media/episode4.4b01fc64.jpg",
   "static/media/episode5.jpg": "/Star-Wars-Friends/static/media/episode5.30ca2b2e.jpg",
   "static/media/episode6.jpg": "/Star-Wars-Friends/static/media/episode6.84ecfc55.jpg",
-  "static/css/main.153cb910.chunk.css.map": "/Star-Wars-Friends/static/css/main.153cb910.chunk.css.map",
+  "static/css/main.105dc5fc.chunk.css.map": "/Star-Wars-Friends/static/css/main.105dc5fc.chunk.css.map",
   "static/css/1.1067a1b3.chunk.css.map": "/Star-Wars-Friends/static/css/1.1067a1b3.chunk.css.map",
   "index.html": "/Star-Wars-Friends/index.html",
-  "precache-manifest.735d3f9ed6a2248c83b2cb74b2a62d35.js": "/Star-Wars-Friends/precache-manifest.735d3f9ed6a2248c83b2cb74b2a62d35.js",
+  "precache-manifest.d8ce829928c6ee92983bcf43345c91e0.js": "/Star-Wars-Friends/precache-manifest.d8ce829928c6ee92983bcf43345c91e0.js",
   "service-worker.js": "/Star-Wars-Friends/service-worker.js"
 }
