@@ -1,0 +1,53 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: url(../img/stars.png);
+  background-color: black;
+  overflow-y: hidden; 
+}
+
+@font-face {
+	font-family: 'STAR WARS FONT';
+	src: url('Starjedi.ttf');
+}
+
+.App-logo {
+  margin: 20px;
+}
+
+.displayContent {
+	text-align:center;
+	opacity:0;
+	animation:opacity 3s 1 forwards;
+}
+
+.App-header {
+  padding: 20px;
+  max-height: 280px;
+}
+
+@keyframes opacity{
+  to {opacity:1}
+}
+
+@media only screen and (max-width: 1400px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  body {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .App-logo{
+    height: 125px;
+  }
+  .App-logoContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+   }
+}

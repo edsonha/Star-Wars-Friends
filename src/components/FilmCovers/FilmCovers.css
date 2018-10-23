@@ -1,0 +1,21 @@
+.Popup-covers {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.Popup-coverOn,
+.Popup-coverOff {
+  width: 30%;
+  margin: 1%;
+  align-self: center;
+}
+
+.Popup-coverOff {
+  filter: grayscale(100%) blur(1px);
+}
+
+@media only screen and (max-width: 800px) {
+  .Popup-covers{
+    justify-content: space-around;
+  }
+}

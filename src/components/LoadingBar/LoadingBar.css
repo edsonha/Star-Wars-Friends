@@ -1,0 +1,84 @@
+.lightsaberContainer {
+  position: relative;
+  max-width: 40%;
+  display: flex;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.loadingWord {
+  font-family: STAR WARS FONT;
+  position: absolute;
+  font-size: 3.5em;
+  left: 50%;
+  top: -1em;
+  transform: translate(-50%, -50%);
+  color: transparent;
+  background: linear-gradient(90deg, #741515, transparent 80%);
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: changeColor 2s infinite linear;
+}
+
+.lightsaberDiv {
+  align-self: center;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  background-color: white;
+  filter: blur(3px);
+  width: 0%;
+  padding: 3px 0;
+  margin-bottom: 2px;
+  margin-left: -3%;
+  box-shadow: 0 0 0 4px red, 0 0 2px 6px rgb(32, 6, 6);
+  animation: laser 2s infinite ease-out;
+}
+
+.lightsaberHilt {
+  width: 30%;
+  height: 100%;
+  z-index: 1;
+}
+
+@keyframes laser {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 70%;
+  }
+}
+
+@media only screen and (max-width: 1400px) {
+  .lightsaberDiv {
+    filter: blur(2px);
+    padding: 1px 0;
+    box-shadow: 0 0 0 2px red;
+    margin-bottom: 0;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .lightsaberDiv {
+    filter: blur(2px);
+    padding: 2px 0;
+    box-shadow: 0 0 0 3px red;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .lightsaberContainer {
+    max-width: 80%;
+    display: flex;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .lightsaberDiv {
+    filter: blur(1px);
+    padding: 1.5px 0;
+    box-shadow: 0 0 0 2px red;
+    margin-bottom: 1px;
+  }
+}
