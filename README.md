@@ -13,3 +13,5 @@ A responsive web app using React that let you search characters in the Star Wars
 ## Online Demo
 
 https://edsonha.github.io/Star-Wars-Friends
+
+<img src="src/img/AppScreenshot1.png" width="725" height="400"> <img src="src/img/AppScreenshot2.png" width="360" height="800"> <img src="src/img/AppScreenshot3.png" width="360" height="800">
