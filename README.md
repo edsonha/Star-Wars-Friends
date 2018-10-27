@@ -1,14 +1,14 @@
 # Star-Wars-Friends
 
-A responsive web app using React that let you search characters in the Star Wars universe, courtesy of this great Star Wars API (https://swapi.co/)
+A responsive web app using React that let you search characters in the Star Wars universe, courtesy of this great [Star Wars API](https://swapi.co/)
 
 ## Created Using
 
 - React
 - Reactjs-Popup
 - HTML, CSS and JS
-- Fetch API (https://swapi.co/)
-- Images from RoboHash API (https://robohash.org/)
+- Fetch [SWAPI](https://swapi.co/)
+- Images from [RoboHash API](https://robohash.org/)
 
 ## Online Demo
 
