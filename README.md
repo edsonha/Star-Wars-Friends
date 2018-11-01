@@ -1,6 +1,6 @@
 # Star-Wars-Friends
 
-A responsive web app using React that let you search characters in the Star Wars universe, courtesy of this great [Star Wars API](https://swapi.co/)
+A responsive web app using React that let you filter and search characters in the Star Wars universe and display their data, courtesy of this great [Star Wars API](https://swapi.co/)
 
 ## Created Using
 
